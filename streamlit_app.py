@@ -13,7 +13,7 @@ if _pwd:
     if typed != _pwd:
         st.stop()
 
-st.title("🩺 APP Bilan Kiné — Méga-application de bilan")
+st.title("🩺 APP Bilan - Kiné")
 
 with st.expander("ℹ️ Aide rapide", expanded=False):
     st.markdown(
